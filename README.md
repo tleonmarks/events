@@ -48,3 +48,30 @@ export default tseslint.config({
   },
 })
 ```
+
+
+## # Notes
+// Events App React
+
+# Uses
+React Developer Tools
+semantic UI
+
+# Extensions
+ES7+ React/Redux/React-Native snippets
+
+# Tooling for creating React Project
+Vite
+TypeScript
+State Management - Your Apps`s Data (Plain React- Compnets State and (centralised state))
+
+
+## Best Practise
+Use Pascal Cassing eg EventsDashboard capital E and D
+. rfc eact component
+
+1. Semantic setup
+https://react.semantic-ui.com/usage
+
+ npm install semantic-ui-react semantic-ui-css
+
